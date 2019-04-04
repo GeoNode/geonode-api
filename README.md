@@ -1,5 +1,5 @@
 # geonode-api
-GeoNode 3.0 OpenAPI collaborative creation
+GeoNode 4.0 OpenAPI collaborative creation
 
 ## Deadlines
 On April 10, 2018 we will announce this repository on the developers mailing list to call for more collaborators.
